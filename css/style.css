@@ -279,7 +279,8 @@ figure figcaption {
 	outline: none;
 	color: #2c98f0;
 }
-.timeline-label p {
+.timeline-label p,
+h2 {
 	color: #000;
 }
 .container-wrap {
